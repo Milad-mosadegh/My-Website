@@ -28,7 +28,7 @@ class Gallery extends Component {
                     <div className="milad-fadeBorder"></div>
                     <p className="text-light mt-5 mb-5">asjdi au vweiue pquwq piuqweencpq iuqwefbbqpiucb qiucqpiwbe</p>
 
-                    <Caro />
+                    {/* <Caro /> */}
                     <div className="container mt-5">
                         <div className="row">
                             <div className="col-md-3 col-sm-6 p-2 milad-hover">
